@@ -1,0 +1,13 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "APP_NAME": "bike-finder",
+    "CLIENT_ID": "bike-finder:default",
+    "CLIENT_SECRET": "[COPY FROM SQUIDEX]",
+    "TO_ADDRESS": "[Optional: Valid Mail Address]",
+    "SENDGRID_API_KEY": "[Optional: COPY FROM AZURE]",
+    "BASE_URL": "http://localhost"
+  }
+}
